@@ -1,3 +1,4 @@
 abc
 the second line
 the third line
+new
